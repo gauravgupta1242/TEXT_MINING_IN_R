@@ -1,2 +1,5 @@
 # TEXT_MINING_IN_R
-Text Mining in R 
+
+This contain text minning in R.
+
+This can be applied 
